@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjetoRodrigoLucasFumache" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+    <style name="Theme.ProjetoRodrigoLucasFumache" parent="Base.Theme.ProjetoRodrigoLucasFumache" />
+</resources>
